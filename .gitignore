@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/*.csv
+data/processed/*.csv
+data/validated/*.csv
+data/output/*.csv
+logs/*.txt
+.kaggle/
+kaggle.json
